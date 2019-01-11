@@ -41,21 +41,21 @@ class Table extends React.Component {
 					art: 'jasne',
 					alk: '5.7%',
 					manufacturer: 'browar ciechan',
-					img: 'img/ciechan-miodowe.png'
+					img: 'images/ciechan-miodowe.png'
 				},
 				{
 					name: 'łomża miodowe',
 					art: 'jasne',
 					alk: '5.7%',
 					manufacturer: 'browar łomża',
-					img: 'img/lomza-miodowe.png'
+					img: 'images/lomza-miodowe.png'
 				},
 				{
 					name: 'perła miodowe',
 					art: 'jasne',
 					alk: '6%',
 					manufacturer: 'browary lubuskie',
-					img: 'img/perla-miodowa.png'
+					img: 'images/perla-miodowa.png'
 				}
 			]
 
